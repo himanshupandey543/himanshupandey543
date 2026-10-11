@@ -58,9 +58,9 @@ AI-powered civic waste reporting and cleanup verification platform.
 
 [View SwachhLens](https://github.com/himanshupandey543/swachh_lens)
 
-## 📈 Contribution Activity
+## 📈 My GitHub Contributions
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshupandey543&theme=tokyo-night&hide_border=true)
+[![GitHub Profile](https://img.shields.io/badge/View_My_Contribution_Graph-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupandey543)
 
 ## 🌐 Connect With Me
 
