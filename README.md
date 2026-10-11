@@ -58,14 +58,6 @@ AI-powered civic waste reporting and cleanup verification platform.
 
 [View SwachhLens](https://github.com/himanshupandey543/swachh_lens)
 
-### 🧬 Genome Vault
-AI + Web3-based platform for genomic research.
-
-- Disease-specific genomic dataset discovery
-- Protein structure analysis
-- Therapeutic target identification
-- Verifiable biomedical research
-
 ## 📈 Contribution Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshupandey543&theme=tokyo-night&hide_border=true)
