@@ -126,46 +126,47 @@ AI-powered civic waste reporting and cleanup verification platform.
 </tr>
 </table>
 
+
 <h3>🚀 Hackathons & Technical Events</h3>
 
 <table>
 <tr>
-<td align="center" width="50%">
-  <h4>💻 DevHack</h4>
-  <a href="certificates/DevHack.pdf">
-    <img src="https://img.shields.io/badge/View_DevHack_Certificate-2563EB?style=for-the-badge"/>
-  </a>
-</td>
-<td align="center" width="50%">
-  <h4>👨‍💻 Geeks2Code</h4>
-  <a href="certificates/Geeks2Code.pdf">
-    <img src="https://img.shields.io/badge/View_Geeks2Code_Certificate-16A34A?style=for-the-badge"/>
-  </a>
-</td>
+  <td align="center" width="50%">
+    <h4>💻 DevHack</h4>
+    <a href="certificates/DevHack.pdf">
+      <img src="https://img.shields.io/badge/View_DevHack_Certificate-2563EB?style=for-the-badge"/>
+    </a>
+  </td>
+  <td align="center" width="50%">
+    <h4>👨‍💻 Geeks2Code</h4>
+    <a href="certificates/Geeks2Code.pdf">
+      <img src="https://img.shields.io/badge/View_Geeks2Code_Certificate-16A34A?style=for-the-badge"/>
+    </a>
+  </td>
 </tr>
 
 <tr>
-<td align="center">
-  <h4>🔥 HackSynergy</h4>
-  <a href="certificates/HackSynergy.pdf">
-    <img src="https://img.shields.io/badge/View_HackSynergy_Certificate-9333EA?style=for-the-badge"/>
-  </a>
-</td>
-<td align="center">
-  <h4>🚀 Morrow</h4>
-  <a href="certificates/morrow.jpeg">
-    <img src="https://img.shields.io/badge/View_Morrow_Certificate-0891B2?style=for-the-badge"/>
-  </a>
-</td>
+  <td align="center" width="50%">
+    <h4>🔥 HackSynergy</h4>
+    <a href="certificates/HackSynergy.pdf">
+      <img src="https://img.shields.io/badge/View_HackSynergy_Certificate-9333EA?style=for-the-badge"/>
+    </a>
+  </td>
+  <td align="center" width="50%">
+    <h4>🚀 Morrow</h4>
+    <a href="certificates/morrow.jpeg">
+      <img src="https://img.shields.io/badge/View_Morrow_Certificate-0891B2?style=for-the-badge"/>
+    </a>
+  </td>
 </tr>
 
 <tr>
-<td align="center" colspan="2">
-  <h4>🏅 TechNova</h4>
-  <a href="certificates/techNova.pdf">
-    <img src="https://img.shields.io/badge/View_TechNova_Certificate-EF4444?style=for-the-badge"/>
-  </a>
-</td>
+  <td align="center" width="50%">
+    <h4>🏅 TechNova</h4>
+    <a href="certificates/techNova.pdf">
+      <img src="https://img.shields.io/badge/View_TechNova_Certificate-EF4444?style=for-the-badge"/>
+    </a>
+  </td>
   <td align="center" width="50%">
     <h4>🏆 Gradient</h4>
     <a href="certificates/Gradient.pdf">
@@ -174,6 +175,7 @@ AI-powered civic waste reporting and cleanup verification platform.
   </td>
 </tr>
 </table>
+
 
 <h3>🧠 Quizzes & Competitions</h3>
 
