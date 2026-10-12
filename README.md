@@ -166,6 +166,12 @@ AI-powered civic waste reporting and cleanup verification platform.
     <img src="https://img.shields.io/badge/View_TechNova_Certificate-EF4444?style=for-the-badge"/>
   </a>
 </td>
+  <td align="center" width="50%">
+    <h4>🏆 Gradient</h4>
+    <a href="certificates/Gradient.pdf">
+      <img src="https://img.shields.io/badge/View_Gradient_Certificate-F59E0B?style=for-the-badge"/>
+    </a>
+  </td>
 </tr>
 </table>
 
